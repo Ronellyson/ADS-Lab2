@@ -1,0 +1,1 @@
+[CompletedProcess(args=['java', '-cp', '../bin;../lib\\*', 'ServidorWeb', '1', '0.84', '10', '30'], returncode=0, stdout='TaxaDeChegadaMedia TempoDeServicoMedio NumServidores RequisicoesSubmetidas RequisicoesConcluidas TempoMedioDeResposta TamanhoMedioDaFila\n1,000000 0,840000 10 36 36 0,936886 0,000000\n', stderr='')]
